@@ -34,7 +34,7 @@
             psu: [
                 { id: 21, name: "Corsair RM750x 750W 80 Plus Gold", price: 129.99, image: "https://m.media-amazon.com/images/I/71sHLnts-HL._AC_SL1500_.jpg", category: "psu", description: "The Corsair RM750x power supply delivers efficient, quiet power with 80 Plus Gold certification and fully modular cables." },
                 { id: 22, name: "EVGA SuperNOVA 850 G5 850W 80 Plus Gold", price: 149.99, image: "https://m.media-amazon.com/images/I/71sHLnts-HL._AC_SL1500_.jpg", category: "psu", description: "The EVGA SuperNOVA 850 G5 power supply offers reliable power delivery with 80 Plus Gold efficiency and fully modular design." },
-                { id: 23, name: "Seasonic FOCUS GX-650 650W 80 Plus Gold", price: 119.99, image: "https://m.media-amazon.com/images/I/71sHLnts-HL._AC_SL1500_.jpg", category: "psu", description: "The Seasonic FOCUS GX-650 power supply provides stable power with 80 Plus Gold certification and semi-modular cables." },
+                { id: 23, name: "Seasonic FOCUS GX-650 650W 80 Plus Gold", price: 119.99, image: "https://scontent.fmnl4-2.fna.fbcdn.net/v/t39.30808-6/493312099_9603950993024008_4978583331157528373_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gGCD0GQ8NOQQ7kNvwHM-1v8&_nc_oc=Adnsb-Tos8JcJyYeEsrOUFj0DbjXc_9jQhE0ooWo089RDTOJRYQqCL3N2jpGpxmWnkkjdiFTxPEWNrRIeO5gpcJY&_nc_zt=23&_nc_ht=scontent.fmnl4-2.fna&_nc_gid=HHUXRgNX18PugFRk4MN5zw&oh=00_Afhox0AXNunZxUb3Uvbk2t7-OY6P2vJTMhmRZCFTQpMyqQ&oe=692292AA", category: "psu", description: "The Seasonic FOCUS GX-650 power supply provides stable power with 80 Plus Gold certification and semi-modular cables." },
                 { id: 24, name: "Thermaltake Toughpower GF1 750W 80 Plus Gold", price: 109.99, image: "https://m.media-amazon.com/images/I/71sHLnts-HL._AC_SL1500_.jpg", category: "psu", description: "The Thermaltake Toughpower GF1 750W power supply delivers efficient power with 80 Plus Gold rating and fully modular cables." }
             ]
         };
@@ -488,3 +488,5 @@
 
         // Initialize the application
         init();
+
+        //update
